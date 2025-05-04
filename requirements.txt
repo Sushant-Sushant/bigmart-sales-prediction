@@ -1,0 +1,30 @@
+# Core Libraries
+streamlit==1.33.0
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.21.0
+
+# Model Explainability
+shap==0.45.0
+
+# Gradient Boosting Libraries
+xgboost==2.0.3
+lightgbm==4.3.0
+catboost==1.2.5
+
+# Optional: If you're using Flask or FastAPI for model APIs
+flask==3.0.2
+fastapi==0.110.2
+uvicorn==0.29.0
+
+# Optional: For JSON handling or HTTP requests
+requests==2.31.0
+
+# Optional: For file uploads/downloads or Excel support
+openpyxl==3.1.2
